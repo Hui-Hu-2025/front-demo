@@ -1,31 +1,31 @@
-# 问答助手
+﻿# é—®ç­”åŠ©æ‰‹
 
-一个基于 React 的问答助手应用。
+ä¸€ä¸ªåŸºäºŽ React çš„é—®ç­”åŠ©æ‰‹åº”ç”¨ã€‚
 
-## 安装依赖
+## å®‰è£…ä¾èµ–
 
 ```bash
 npm install
 ```
 
-## 运行开发服务器
+## è¿è¡Œå¼€å‘æœåŠ¡å™¨
 
 ```bash
 npm start
 ```
 
-应用将在 http://localhost:3000 打开
+åº”ç”¨å°†åœ¨ http://localhost:3000 æ‰“å¼€
 
-## 构建生产版本
+## æž„å»ºç”Ÿäº§ç‰ˆæœ¬
 
 ```bash
 npm run build
 ```
 
-## 项目结构
+## é¡¹ç›®ç»“æž„
 
-- `src/components/AIAssistant.js` - 主组件
-- `src/components/AIAssistant.css` - 组件样式
-- `src/App.js` - 应用入口组件
-- `src/index.js` - React 入口文件
-- `public/index.html` - HTML 模板
+- `src/components/AIAssistant.js` - ä¸»ç»„ä»¶
+- `src/components/AIAssistant.css` - ç»„ä»¶æ ·å¼
+- `src/App.js` - åº”ç”¨å…¥å£ç»„ä»¶
+- `src/index.js` - React å…¥å£æ–‡ä»¶
+- `public/index.html` - HTML æ¨¡æ¿
