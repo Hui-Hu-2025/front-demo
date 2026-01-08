@@ -22,7 +22,7 @@ function AIAssistant() {
 
   return (
     <div className="container">
-      <h1 className="title">AI 问答助手</h1>
+      <h1 className="title">问答助手</h1>
       
       <div className="input-section">
         <div className="input-group">
